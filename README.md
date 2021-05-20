@@ -9,3 +9,7 @@
 
 - `deno run 02-import-export/local.ts`
 - `deno run 02-import-export/remote.ts`
+
+## 의존성 관리
+
+- `deno run 03-manage-dep/example.ts`
