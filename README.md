@@ -13,3 +13,7 @@
 ## 의존성 관리
 
 - `deno run 03-manage-dep/example.ts`
+
+## Fetch
+
+- `deno run --allow-net 04-fetch/fetch.ts`
