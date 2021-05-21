@@ -23,3 +23,8 @@
 - `deno run --allow-read 05-read-and-write/read.ts`
 - `deno run --allow-write 05-read-and-write/write.ts`
 - `deno run --allow-write 05-read-and-write/writeSync.ts`
+
+## Unix cat
+
+- `deno run --allow-read 06-unix-cat/cat.ts ./README.md ./06-unix-cat/test.md`
+- `deno run --allow-read 06-unix-cat/cat.ts --separate ./README.md ./06-unix-cat/test.md`
