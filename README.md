@@ -17,3 +17,9 @@
 ## Fetch
 
 - `deno run --allow-net 04-fetch/fetch.ts`
+
+## Read And Write
+
+- `deno run --allow-read 05-read-and-write/read.ts`
+- `deno run --allow-write 05-read-and-write/write.ts`
+- `deno run --allow-write 05-read-and-write/writeSync.ts`
