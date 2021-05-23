@@ -28,3 +28,8 @@
 
 - `deno run --allow-read 06-unix-cat/cat.ts ./README.md ./06-unix-cat/test.md`
 - `deno run --allow-read 06-unix-cat/cat.ts --separate ./README.md ./06-unix-cat/test.md`
+
+## HTTP Server
+
+- `deno run --allow-net --unstable unstable-server.ts`
+- `deno run --allow-net server.ts`
